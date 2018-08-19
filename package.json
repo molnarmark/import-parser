@@ -1,0 +1,27 @@
+{
+  "name": "import-parser",
+  "version": "0.0.1",
+  "description": "Parse EcmaScript 6 import statements with ease.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/molnarmark/import-parser.git"
+  },
+  "keywords": [
+    "es6",
+    "import",
+    "parser",
+    "importparser",
+    "imports",
+    "import-parser"
+  ],
+  "author": "Mark Molnar <molnarpw@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/molnarmark/import-parser/issues"
+  },
+  "homepage": "https://github.com/molnarmark/import-parser#readme"
+}
